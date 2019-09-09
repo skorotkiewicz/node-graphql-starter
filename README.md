@@ -1,8 +1,8 @@
 <h1 align="center">
-Very simple GraphQL starter in NodeJS + MongoDB + Apollo
+GraphQL starter in NodeJS + MongoDB + Apollo
 </h1>
 
-<p align="center">Very simple starter to understand the principle of work</p>
+<p align="center">Very simple starter to understand the principle of GraphQL</p>
 
 ## Getting started
 
